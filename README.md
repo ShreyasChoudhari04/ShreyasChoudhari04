@@ -3,9 +3,9 @@
 ### About Me
 - 🎓 3rd-year Engineering student in **Artificial Intelligence & Data Science** at **SPPU**  
 - 🔭 Currently working on **AI & Machine Learning projects**  
-- 🌱 Learning **Deep Learning, NLP, and Cloud Technologies**  
+- 🌱 Learning  **Deep Learning, NLP, and Cloud Technologies**  
 - 👯 Open to collaboration on **AI/ML projects and research initiatives**  
-- 💼 **Actively looking for AI/ML internships** to gain practical experience  
+- 💼 **Actively looking for internships** to gain practical experience  
 - 🤔 Looking for guidance on **real-world AI/ML applications**  
 - 💬 Ask me about **Python, Machine Learning, AI, and Data Science**  
 - 📫 Reach me: **[LinkedIn](linkedin.com/in/shreyaschoudhari)** 
