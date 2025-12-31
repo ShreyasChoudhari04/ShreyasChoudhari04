@@ -8,7 +8,7 @@
 - 💼 **Actively looking for AI/ML internships** to gain practical experience  
 - 🤔 Looking for guidance on **real-world AI/ML applications**  
 - 💬 Ask me about **Python, Machine Learning, AI, and Data Science**  
-- 📫 Reach me: **[LinkedIn](linkedin.com/in/shreyaschoudhari)** 
+- 📫 Reach me: **[LinkedIn] (linkedin.com/in/shreyaschoudhari)** 
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: **I love solving logical puzzles and building AI-powered tools!**
 
